@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{B8B383D4-37B9-4BC3-A46B-94C1C3DED719}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ContactManager/Program.cs">
+    <Files>
+      <File FileName="ContactManager/wwwroot/lib/bootstrap/dist/css/bootstrap.css" Line="11363" Column="1" />
+      <File FileName="ContactManager/Views/Shared/_Layout.cshtml" />
+      <File FileName="ContactManager/Views/Individual/Index.cshtml" />
+      <File FileName="ContactManager/Controllers/IndividualController.cs" />
+      <File FileName="ContactManager/Views/Individual/Create.cshtml" />
+      <File FileName="ContactManager/wwwroot/lib/bootstrap/dist/css/bootstrap-theme.css.map" />
+      <File FileName="ContactManager/wwwroot/lib/bootstrap/dist/css/bootstrap-neat.css" />
+      <File FileName="ContactManager/wwwroot/css/site.css" />
+      <File FileName="ContactManager/wwwroot/css/site.min.css" />
+      <File FileName="ContactManager/Properties/launchSettings.json" />
+      <File FileName="ContactManager/Startup.cs" />
+      <File FileName="ContactManager/appsettings.json" />
+      <File FileName="ContactManager/Models/Individual.cs" />
+      <File FileName="ContactManager/Models/Vendor.cs" />
+      <File FileName="ContactManager/Program.cs" Line="1" Column="1" />
+      <File FileName="ContactManager/appsettings.Development.json" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ContactManager PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
