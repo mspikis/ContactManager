@@ -1,0 +1,70 @@
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.deps.json
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.runtimeconfig.json
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.runtimeconfig.dev.json
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.dll
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.pdb
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.Views.dll
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.Views.pdb
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.csproj.CoreCompileInputs.cache
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.RazorAssemblyInfo.cache
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.RazorAssemblyInfo.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.AssemblyInfoInputs.cache
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.AssemblyInfo.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.TagHelpers.input.cache
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.TagHelpers.output.cache
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.RazorCoreGenerate.cache
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.RazorTargetAssemblyInfo.cache
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.RazorTargetAssemblyInfo.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.Views.pdb
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.dll
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.pdb
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.csproj.CopyComplete
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.csprojAssemblyReference.cache
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Individual/Create.g.cshtml.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Individual/Delete.g.cshtml.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Individual/Details.g.cshtml.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Individual/Edit.g.cshtml.cs
+/Users/tatianaokorie/Projects/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Individual/Index.g.cshtml.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.deps.json
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.runtimeconfig.json
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.runtimeconfig.dev.json
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.dll
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.pdb
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.Views.dll
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/ContactManager.Views.pdb
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.csprojAssemblyReference.cache
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.csproj.CoreCompileInputs.cache
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.RazorAssemblyInfo.cache
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.RazorAssemblyInfo.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.AssemblyInfoInputs.cache
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.AssemblyInfo.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.TagHelpers.input.cache
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.TagHelpers.output.cache
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.RazorCoreGenerate.cache
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.RazorTargetAssemblyInfo.cache
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.RazorTargetAssemblyInfo.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.Views.pdb
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.dll
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.pdb
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.csproj.CopyComplete
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/appsettings.Development.json
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/appsettings.json
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/bin/Debug/netcoreapp2.1/Properties/launchSettings.json
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Individual/Create.cshtml.g.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Individual/Delete.cshtml.g.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Individual/Details.cshtml.g.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Individual/Edit.cshtml.g.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Individual/Index.cshtml.g.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.cshtml.g.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.cshtml.g.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.cshtml.g.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.cshtml.g.cs
+/Users/Lifeowner/Google Drive/Programming/ContactManager/ContactManager/obj/Debug/netcoreapp2.1/ContactManager.genruntimeconfig.cache
