@@ -1,0 +1,88 @@
+@model ContactManager.Models.DomainViewModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+<p> </p>
+<p> </p>
+<p>
+        <a  asp-action="Create">Create New</a>
+</p>
+<form asp-controller="Individual" asp-action="Index">
+    <p>
+        <select asp-for="SelectDomain" asp-items="Model.Domains">
+            <option value="">All Domains</option>
+        </select>
+        <select asp-for="SelectService" asp-items="Model.Services">
+            <option value="">All Services</option>
+        </select>
+        Title: <input asp-for="SearchString">
+        <input type="submit" value="Filter" />
+    </p>
+</form>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.ActionLink("Surname", "Index", new { sortOrder = ViewBag.SurnameSortParm })
+            </th>
+            <th>
+                @Html.ActionLink("Forename", "Index", new { sortOrder = ViewBag.ForenameSortParm })
+            </th>
+            <th>
+                @Html.ActionLink("Address", "Index", new { sortOrder = ViewBag.AddressSortParm })
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Individuals[0].Telephone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Individuals[0].EMail)
+            </th>
+            <th>
+                @Html.ActionLink("Domain", "Index", new { sortOrder = ViewBag.DomainSortParm })
+            </th>
+            <th>
+                @Html.ActionLink("Service", "Index", new { sortOrder = ViewBag.ServiceSortParm })
+            </th>
+            <th>
+                @Html.ActionLink("Hourly Fee", "Index", new { sortOrder = ViewBag.FeeSortParm })
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Individuals)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Surname)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Forename)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Address)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Telephone)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.EMail)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Domain)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Service)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.FeePerHour)
+                </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
